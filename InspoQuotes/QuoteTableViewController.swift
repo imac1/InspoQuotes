@@ -1,10 +1,6 @@
 //
 //  QuoteTableViewController.swift
 //  InspoQuotes
-//
-//  Created by Angela Yu on 18/08/2018.
-//  Copyright © 2018 London App Brewery. All rights reserved.
-//
 
 import UIKit
 
